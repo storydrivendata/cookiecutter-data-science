@@ -14,19 +14,13 @@ Check out the Sphinx documentation at:
 
 <!-- credits footer -->
 
-<p><small>
-  <a href="https://github.com/storydrivendata/storydriven-cookiecutter">storydriven-cookiecutter</a>
-  is a simplified version of 
-  <a href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter-data-science</a>
-  project template.
-</small></p>
 
-<p><small>
-  To use:
-</small></p>
+[storydriven-cookiecutter](https://github.com/storydrivendata/storydriven-cookiecutter) is a simplified version of [cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/) project template.
 
-<small>
-<pre><code>
-  cookiecutter https://github.com/storydrivendata/storydriven-cookiecutter  
-</code></pre>  
-</small>
+
+To use:
+
+```sh
+cookiecutter https://github.com/storydrivendata/storydriven-cookiecutter
+```
+
