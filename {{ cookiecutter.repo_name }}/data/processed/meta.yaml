@@ -1,0 +1,10 @@
+"datafile_name":
+  title: "Human_friendly_name_for_database"
+  format: sqlite
+  description: |
+    "Short_summary_of_data_stuff"
+  derived_from: /src/dba/bootstrap.sql
+  size: 20.20  # in MB
+  tables:
+    - name: table1
+    - name: table2
