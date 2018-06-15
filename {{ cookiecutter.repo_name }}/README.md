@@ -5,8 +5,7 @@
 
 Check out the Sphinx documentation at:
 
-
-{{cookiecutter.github_pages_domain}}/{{cookiecutter.repo_name}}
+https://storydrivendatasets.github.io/
 
 --------
 
