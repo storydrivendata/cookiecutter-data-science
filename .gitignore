@@ -1,5 +1,6 @@
 docs/site/
-
+sphinxdocs/_build
+\{\{\ cookiecutter.repo_name\ \}\}/docs/
 # OSX Junk
 .DS_Store
 
