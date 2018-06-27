@@ -1,3 +1,8 @@
+#!/usr/bin/env bash
+tail -n +4 "$0" | sqlite3
+exit $?
+
+-- begin the bootstrap
 .mode csv
 .bail on
 .echo on
