@@ -1,4 +1,5 @@
 docs/site/
+_drafts/
 sphinxdocs/_build
 \{\{\ cookiecutter.repo_name\ \}\}/docs/
 # OSX Junk
