@@ -1,5 +1,10 @@
-TODOS for {{cookiecutter.project_name}}
-==============================
+# TODOS for {{cookiecutter.project_name}}
+
+Cookie version: 2018.07.11 [Attempt at proper Makefile]
+
+## Next step
+
+[ ] - Import vanilla/bootstrap
 
 
 ## Wrangling
@@ -10,4 +15,3 @@ TODOS for {{cookiecutter.project_name}}
 
 ## Questions
 
-- [ ] Why are some ids missing?
