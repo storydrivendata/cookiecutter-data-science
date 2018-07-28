@@ -1,6 +1,6 @@
 # TODOS for {{cookiecutter.project_name}}
 
-Cookie version: 2018.07.11 [Attempt at proper Makefile]
+Cookie version: 2018.07.28 [Removed unused directories]
 
 ## Next step
 
@@ -15,3 +15,4 @@ Cookie version: 2018.07.11 [Attempt at proper Makefile]
 
 ## Questions
 
+Previous cookies: 2018.07.11 [Attempt at proper Makefile]
